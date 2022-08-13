@@ -1,2 +1,3 @@
-# Jira-Clone
-Personal Project to clone Jira and improve development skills
+# Trello-Clone
+
+Personal Project to clone Trello and improve development skills.
